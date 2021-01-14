@@ -1,4 +1,4 @@
-# Pista Ng Mapa 2020
+# FOSDEM 2021
 
 As technology advances, so as our maps. In this talk, we will explore the ever growing open map data that can help us understand, validate, and explore socio-economic indicators in the Philippines.
 
